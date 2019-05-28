@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: tdd-springboot
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: sudhakar.avise
+Implementation-Vendor-Id: com.swathisprasad.tdd
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/tdd-springboot
+Created-By: Maven Integration for Eclipse
+
